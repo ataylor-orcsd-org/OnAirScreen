@@ -12,3 +12,5 @@ build/
 distribution.py
 *.build
 *.dist
+build_osx.sh
+OnAirScreen_osx.spec
